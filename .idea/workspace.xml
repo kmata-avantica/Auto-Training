@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8d75e8d8-0bd5-49ed-bb64-a1f403c64120" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/AutoTest/src/main/java/Recording/chesse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoTest/src/Resources/dataTest.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,26 +26,47 @@
         <counts>
           <entry key="class" value="2" />
           <entry key="java" value="2" />
+          <entry key="properties" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="2" />
           <entry key="JAVA" value="2" />
+          <entry key="Properties" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="properties" value="61" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Properties" value="61" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/AutoTest/src/main/java/Recording/chesse.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="770">
-              <caret line="73" lean-forward="true" selection-start-line="73" selection-end-line="73" />
+            <state relative-caret-position="583">
+              <caret line="62" column="34" lean-forward="true" selection-start-line="62" selection-start-column="34" selection-end-line="62" selection-end-column="34" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/AutoTest/src/Resources/dataTest.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -58,6 +80,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/AutoTest/src/main/java/Recording/chesse.java" />
+        <option value="$PROJECT_DIR$/AutoTest/src/Resources/dataTest.properties" />
       </list>
     </option>
   </component>
@@ -85,18 +108,17 @@
             <path>
               <item name="Auto-Training" type="b2602c69:ProjectViewProjectNode" />
               <item name="Auto-Training" type="462c0819:PsiDirectoryNode" />
-              <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Auto-Training" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Auto-Training" type="462c0819:PsiDirectoryNode" />
-              <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
               <item name=".idea" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Auto-Training" type="b2602c69:ProjectViewProjectNode" />
               <item name="Auto-Training" type="462c0819:PsiDirectoryNode" />
               <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Auto-Training" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Auto-Training" type="462c0819:PsiDirectoryNode" />
+              <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -121,7 +143,14 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="PageObjects" type="462c0819:PsiDirectoryNode" />
+              <item name="TestSuites" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Auto-Training" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Auto-Training" type="462c0819:PsiDirectoryNode" />
+              <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -130,8 +159,8 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535660220044" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535660935383" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Unity-Scaling-Server" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -207,11 +236,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/AutoTest/src/main/java/Recording/chesse.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="770">
-          <caret line="73" lean-forward="true" selection-start-line="73" selection-end-line="73" />
+        <state relative-caret-position="583">
+          <caret line="62" column="34" lean-forward="true" selection-start-line="62" selection-start-column="34" selection-end-line="62" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AutoTest/src/Resources/dataTest.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
         </state>
       </provider>
     </entry>
